@@ -10,7 +10,7 @@ body {
 .container {
     width: 100%;
     margin: 0 auto;
-    padding: 8px 8px;
+    padding: 10px 10px;
     max-width: 900px;
     text-align: center;
 }
@@ -22,8 +22,8 @@ h1 {
 
 h4 {
     color: #339966;
-    word-spacing: 2px;
-    letter-spacing: 1px;
+    word-spacing: 1px;
+    letter-spacing: 2px;
     text-shadow: 2px 2px 8px #ff471a;
 }
 
@@ -32,4 +32,8 @@ p {
     color: #0073e6;
     word-spacing: 3px;
     letter-spacing: 1px;
+}
+
+h5 {
+    color: gray;
 }
